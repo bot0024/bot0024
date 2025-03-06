@@ -22,7 +22,7 @@ I am a **beginner in cybersecurity** with a strong passion for learning and impr
 
 ---
 
-## 🚀 Beginner Projects
+## 🚀 Projects
 ### **🔎 Basic Vulnerability Scanner**  
 ![Vulnerability Scanner](https://www.secpod.com/blog/wp-content/uploads/2023/06/Vulnerability-Scanning-Best-Practices-for-Accurate-Detection5-1.jpg)  
 📌 A simple Python script that scans websites for common security vulnerabilities like **open ports and outdated SSL configurations**.  
