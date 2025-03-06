@@ -2,51 +2,73 @@
 layout: default
 ---
 
-d`.
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keywor
-[Link to another page](./another-page.html).
+# 🚀 Cybersecurity Portfolio 🔐
 
-There should be whitespace between paragraphs.
+Welcome to my **Cybersecurity Portfolio**! I am an aspiring cybersecurity professional eager to learn and grow in the field. This portfolio showcases my projects, skills, and interests as I seek an **internship opportunity** to gain hands-on experience.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# 🔐 Cybersecurity Portfolio
-
-Welcome to my cybersecurity portfolio. Here, you'll find my hands-on projects, research, and expertise in ethical hacking, security automation, and network defense.
+---
 
 ## 👨‍💻 About Me
-I am a passionate cybersecurity professional with expertise in:
-- 🛡️ **Penetration Testing & Ethical Hacking**
-- 🔍 **Threat Hunting & Incident Response**
-- ⚡ **Security Automation with Python & Bash**
-- ☁️ **Cloud Security & Compliance (AWS, Azure)**
+I am a **beginner in cybersecurity** with a strong passion for learning and improving my skills in:
+- 🛡️ **Cybersecurity Fundamentals** (Network Security, Ethical Hacking, and Threat Detection)
+- 🔍 **Penetration Testing Basics** (Kali Linux, Nmap, Burp Suite)
+- ⚡ **Security Automation & Scripting** (Python, Bash)
+- 🕵️ **Cybersecurity Tools & Techniques** (Wireshark, Metasploit, Nmap, OSINT)
 
-## 🚀 Featured Projects
+💡 *I am actively building my knowledge through online courses, labs, and personal projects!*
 
-### **🔎 Vulnerability Scanner**
-A Python-based tool that scans web applications for vulnerabilities such as SQL injection, XSS, and insecure headers.
+---
+
+## 🚀 Projects
+### **🔎 Basic Vulnerability Scanner**  
+📌 A simple Python script that scans websites for common security vulnerabilities like **open ports and outdated SSL configurations**.  
 [🔗 View on GitHub](#)
 
-### **📊 Log Analysis & SIEM Integration**
-Developed a log analysis pipeline that integrates with Splunk to detect and alert on potential security incidents.
+### **📊 Log Analysis for Security Events**  
+📌 Analyzed system logs using **Splunk & ELK Stack** to identify suspicious activities and generate security alerts.  
 [🔗 View on GitHub](#)
 
-### **🏆 CTF Challenges & Write-ups**
-A collection of solutions and walkthroughs for Capture The Flag (CTF) challenges covering web exploitation, forensics, and cryptography.
+### **🏆 CTF Challenges & Learning Notes**  
+📌 Participated in **Capture The Flag (CTF) competitions**, solving beginner-level challenges in web security, cryptography, and forensics.  
 [🔗 View on GitHub](#)
 
-## 🏅 Certifications & Skills
-- 🎓 **Certified Ethical Hacker (CEH)**
-- 🔐 **CompTIA Security+**
-- 💻 **Offensive Security Certified Professional (OSCP) (In Progress)**
-- 🛠️ **Tools & Technologies:** Wireshark, Metasploit, Burp Suite, Nmap, OWASP ZAP, Kali Linux
+### **🛡️ Basic Firewall Rules & Testing**  
+📌 Configured basic **firewall rules** using UFW and tested network security policies.  
+[🔗 View on GitHub](#)
 
-## ✍️ Blog & Resources
-Stay updated with my blogs on cybersecurity best practices, exploit techniques, and security automation.
+---
+
+## 🏅 Learning & Certifications
+🎓 **Current Learning Path:**
+- 🏆 **CompTIA Security+ (Studying)**
+- 🔐 **Certified Ethical Hacker (CEH) (Beginner Level Study)**
+- ☁️ **AWS Certified Cloud Practitioner (Studying)**
+
+🛠️ **Skills I’m Building:**
+- **Penetration Testing:** Basic Nmap, Metasploit, Burp Suite, Kali Linux
+- **Network Security:** Packet Analysis with Wireshark, Firewalls
+- **Threat Hunting:** Using basic SIEM tools like Splunk
+- **Cybersecurity Fundamentals:** Understanding encryption, authentication, and access controls
+
+---
+
+## 📚 Learning Resources & Blog
+I am documenting my learning journey with blogs and notes on:
+- 🏴‍☠️ **Introduction to Ethical Hacking**
+- ⚙️ **How to Set Up a Virtual Lab for Cybersecurity Practice**
+- 🔐 **Top Free Resources for Learning Cybersecurity as a Beginner**
+
 [📖 Read More](#)
 
-## 📬 Contact & Connect
-Let's connect and collaborate! Reach out to me on:
+---
+
+## 📬 Looking for an Internship! 
+🚀 I am actively seeking an **internship in cybersecurity** to gain hands-on experience and apply my skills in a real-world environment. Let’s connect!
 - 🔗 **LinkedIn:** [Your Profile](#)
 - 🐦 **Twitter:** [@YourHandle](#)
 - 📧 **Email:** your.email@example.com
+- 🌐 **Portfolio Website:** [YourWebsite.com](#)
+
+---
+
+![Cybersecurity Learning](https://example.com/cybersecurity-image.png)
