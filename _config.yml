@@ -1,7 +1,0 @@
-title: "John Doe's Cybersecurity Portfolio"
-email: john.doe@example.com
-description: "A portfolio showcasing my cybersecurity projects and skills."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://your-username.github.io" # the base hostname & protocol for your site
-twitter_username: johndoe
-github_username:  your-username
