@@ -10,115 +10,43 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Cybersecurity Portfolio
+# 🔐 Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio. Here, you'll find projects, research, and documentation related to ethical hacking, penetration testing, security automation, and more
+Welcome to my cybersecurity portfolio. Here, you'll find my hands-on projects, research, and expertise in ethical hacking, security automation, and network defense.
 
-## About Me
+## 👨‍💻 About Me
+I am a passionate cybersecurity professional with expertise in:
+- 🛡️ **Penetration Testing & Ethical Hacking**
+- 🔍 **Threat Hunting & Incident Response**
+- ⚡ **Security Automation with Python & Bash**
+- ☁️ **Cloud Security & Compliance (AWS, Azure)**
 
-I am a cybersecurity enthusiast with expertise in:
-- Ethical hacking and penetration testing
-- Network security and security analysis
-- Security automation with Python and Bash scripting
+## 🚀 Featured Projects
 
-### Projects
+### **🔎 Vulnerability Scanner**
+A Python-based tool that scans web applications for vulnerabilities such as SQL injection, XSS, and insecure headers.
+[🔗 View on GitHub](#)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### **📊 Log Analysis & SIEM Integration**
+Developed a log analysis pipeline that integrates with Splunk to detect and alert on potential security incidents.
+[🔗 View on GitHub](#)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### **🏆 CTF Challenges & Write-ups**
+A collection of solutions and walkthroughs for Capture The Flag (CTF) challenges covering web exploitation, forensics, and cryptography.
+[🔗 View on GitHub](#)
 
-#### Header 4
+## 🏅 Certifications & Skills
+- 🎓 **Certified Ethical Hacker (CEH)**
+- 🔐 **CompTIA Security+**
+- 💻 **Offensive Security Certified Professional (OSCP) (In Progress)**
+- 🛠️ **Tools & Technologies:** Wireshark, Metasploit, Burp Suite, Nmap, OWASP ZAP, Kali Linux
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## ✍️ Blog & Resources
+Stay updated with my blogs on cybersecurity best practices, exploit techniques, and security automation.
+[📖 Read More](#)
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## 📬 Contact & Connect
+Let's connect and collaborate! Reach out to me on:
+- 🔗 **LinkedIn:** [Your Profile](#)
+- 🐦 **Twitter:** [@YourHandle](#)
+- 📧 **Email:** your.email@example.com
