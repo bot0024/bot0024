@@ -26,7 +26,7 @@
 
 | | Project | Highlights | Stack |
 |---|---|---|---|
-| 🤖 | [**SOAR Active Directory Containment Lab**](https://github.com/bot0024/soar-ad-containment-lab) | Alert-driven response workflow with agent lookup, approval handling and a timeout safety check. End-to-end tested. | `Splunk` `Tines` `Wazuh` `Jira` |
+| 🤖 | [**SOAR Active Directory Containment Lab**](https://github.com/bot0024/soar-ad-containment-lab) | Automated incident response lab simulating an active Windows Server 2025 Domain Controller. Detects 10 MITRE ATT&CK vectors (Kerberoasting, DCSync, PtH) via Splunk and automates containment. | `Splunk` `Tines` `Wazuh` `Jira` |
 | 🛡️ | [**SOC Home Lab: Detection, SIEM & Automated IR**](https://github.com/bot0024/soc-lab-opensoure) | HA SOC with CARP/pfsync failover, Suricata IDS/IPS, Wazuh FIM, IOC enrichment and MITRE ATT&CK mapping via TheHive, Cortex and MISP. | `OPNsense` `Suricata` `Wazuh` `TheHive` `MISP` `Cortex` |
 | 🍯 | [**Global Threat Intelligence with Cloud Honeypots**](https://github.com/bot0024/Project-Global-Threat-Intelligence-Analysis-using-Cloud-Based-Honeypots) | 266,000+ events analysed. Found brute-force activity, CVE-2018-13379 exploitation attempts and Redtail malware. | `Azure` `T-Pot` `ELK` `Docker` `GreyNoise` `VirusTotal` |
 | 🌐 | [**Network Recon & Packet Analysis**](https://github.com/bot0024/nmap-network-analyzer) | Nmap scanning in a controlled lab, with packet flows inspected in Wireshark. | `Nmap` `Wireshark` `Kali` |
