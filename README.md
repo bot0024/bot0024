@@ -25,7 +25,7 @@ Cybersecurity graduate (BSc Cybersecurity & Digital Science, Pune) focused on **
 - 🏗️ Built a **High-Availability SOC lab** (OPNsense CARP/pfsync, Wazuh, TheHive, Cortex, MISP)
 - 🍯 Captured and analysed **266,000+ attack events** with a T-Pot honeypot on Azure
 - 🤖 Designed a **SOAR containment workflow** with Splunk, Tines, Wazuh and Jira
-- 📍 Pune, India · 💼 **Open to entry-level SOC / cybersecurity roles**
+- 📍 Pune, India 
 
 
 ## 🚀 Featured Projects
@@ -92,7 +92,7 @@ Walkthroughs and write-ups on [Medium](https://medium.com/@BotHacks):
 </ul>
 
 
-## 🐍 Contribution Snake
+## 🐉 Contribution Snake
 
 <div align="center">
 
