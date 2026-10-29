@@ -17,15 +17,15 @@
 
 
 
-## 👨‍💻 About Me
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 Cybersecurity graduate (BSc Cybersecurity & Digital Science, Pune) focused on **SOC operations, SIEM triage and incident response**. I learn by building practical labs, testing detection and response workflows, and documenting what I find.
 
-- 🏅 **TryHackMe Top 1% globally**, 250+ rooms and CTFs, **SOC Level 1** completed
-- 🏗️ Built a **High-Availability SOC lab** (OPNsense CARP/pfsync, Wazuh, TheHive, Cortex, MISP)
-- 🍯 Captured and analysed **266,000+ attack events** with a T-Pot honeypot on Azure
-- 🤖 Designed a **SOAR containment workflow** with Splunk, Tines, Wazuh and Jira
-- 📍 Pune, India 
+- 🏅 𝚃𝚛𝚢𝙷𝚊𝚌𝚔𝙼𝚎 𝚃𝚘𝚙 𝟷% 𝚐𝚕𝚘𝚋𝚊𝚕𝚕𝚢, 𝟸𝟻𝟶+ 𝚛𝚘𝚘𝚖𝚜 𝚊𝚗𝚍 𝙲𝚃𝙵𝚜, 𝚂𝙾𝙲 𝙻𝚎𝚟𝚎𝚕 𝟷 𝚌𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍
+- 🏗️ 𝙱𝚞𝚒𝚕𝚝 𝚊 𝙷𝚒𝚐𝚑-𝙰𝚟𝚊𝚒𝚕𝚊𝚋𝚒𝚕𝚒𝚝𝚢 𝚂𝙾𝙲 𝚕𝚊𝚋 (𝙾𝙿𝙽𝚜𝚎𝚗𝚜𝚎 𝙲𝙰𝚁𝙿/𝚙𝚏𝚜𝚢𝚗𝚌, 𝚆𝚊𝚣𝚞𝚑, 𝚃𝚑𝚎𝙷𝚒𝚟𝚎, 𝙲𝚘𝚛𝚝𝚎𝚡, 𝙼𝙸𝚂𝙿)
+- 🍯 𝙲𝚊𝚙𝚝𝚞𝚛𝚎𝚍 𝚊𝚗𝚍 𝚊𝚗𝚊𝚕𝚢𝚜𝚎𝚍 𝟸𝟼𝟼,𝟶𝟶𝟶+ 𝚊𝚝𝚝𝚊𝚌𝚔 𝚎𝚟𝚎𝚗𝚝𝚜 𝚠𝚒𝚝𝚑 𝚊 𝚃-𝙿𝚘𝚝 𝚑𝚘𝚗𝚎𝚢𝚙𝚘𝚝 𝚘𝚗 𝙰𝚣𝚞𝚛𝚎
+- 🤖 𝙳𝚎𝚜𝚒𝚐𝚗𝚎𝚍 𝚊 𝚂𝙾𝙰𝚁 𝚌𝚘𝚗𝚝𝚊𝚒𝚗𝚖𝚎𝚗𝚝 𝚠𝚘𝚛𝚔𝚏𝚕𝚘𝚠 𝚠𝚒𝚝𝚑 𝚂𝚙𝚕𝚞𝚗𝚔, 𝚃𝚒𝚗𝚎𝚜, 𝚆𝚊𝚣𝚞𝚑 𝚊𝚗𝚍 𝙹𝚒𝚛𝚊
+- 📍 𝙿𝚞𝚗𝚎, 𝙸𝚗𝚍𝚒𝚊 
 
 
 ## 🚀 Featured Projects
