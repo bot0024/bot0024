@@ -19,7 +19,7 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-Cybersecurity graduate (BSc Cybersecurity & Digital Science, Pune) focused on **SOC operations, SIEM triage and incident response**. I learn by building practical labs, testing detection and response workflows, and documenting what I find.
+𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚎 (𝙱𝚂𝚌 𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 & 𝙳𝚒𝚐𝚒𝚝𝚊𝚕 𝚂𝚌𝚒𝚎𝚗𝚌𝚎, 𝙿𝚞𝚗𝚎) 𝚏𝚘𝚌𝚞𝚜𝚎𝚍 𝚘𝚗 𝚂𝙾𝙲 𝚘𝚙𝚎𝚛𝚊𝚝𝚒𝚘𝚗𝚜, 𝚂𝙸𝙴𝙼 𝚝𝚛𝚒𝚊𝚐𝚎 𝚊𝚗𝚍 𝚒𝚗𝚌𝚒𝚍𝚎𝚗𝚝 𝚛𝚎𝚜𝚙𝚘𝚗𝚜𝚎. 𝙸 𝚕𝚎𝚊𝚛𝚗 𝚋𝚢 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚙𝚛𝚊𝚌𝚝𝚒𝚌𝚊𝚕 𝚕𝚊𝚋𝚜, 𝚝𝚎𝚜𝚝𝚒𝚗𝚐 𝚍𝚎𝚝𝚎𝚌𝚝𝚒𝚘𝚗 𝚊𝚗𝚍 𝚛𝚎𝚜𝚙𝚘𝚗𝚜𝚎 𝚠𝚘𝚛𝚔𝚏𝚕𝚘𝚠𝚜, 𝚊𝚗𝚍 𝚍𝚘𝚌𝚞𝚖𝚎𝚗𝚝𝚒𝚗𝚐 𝚠𝚑𝚊𝚝 𝙸 𝚏𝚒𝚗𝚍.
 
 - 🏅 𝚃𝚛𝚢𝙷𝚊𝚌𝚔𝙼𝚎 𝚃𝚘𝚙 𝟷% 𝚐𝚕𝚘𝚋𝚊𝚕𝚕𝚢, 𝟸𝟻𝟶+ 𝚛𝚘𝚘𝚖𝚜 𝚊𝚗𝚍 𝙲𝚃𝙵𝚜, 𝚂𝙾𝙲 𝙻𝚎𝚟𝚎𝚕 𝟷 𝚌𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍
 - 🏗️ 𝙱𝚞𝚒𝚕𝚝 𝚊 𝙷𝚒𝚐𝚑-𝙰𝚟𝚊𝚒𝚕𝚊𝚋𝚒𝚕𝚒𝚝𝚢 𝚂𝙾𝙲 𝚕𝚊𝚋 (𝙾𝙿𝙽𝚜𝚎𝚗𝚜𝚎 𝙲𝙰𝚁𝙿/𝚙𝚏𝚜𝚢𝚗𝚌, 𝚆𝚊𝚣𝚞𝚑, 𝚃𝚑𝚎𝙷𝚒𝚟𝚎, 𝙲𝚘𝚛𝚝𝚎𝚡, 𝙼𝙸𝚂𝙿)
