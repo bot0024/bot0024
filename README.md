@@ -66,7 +66,6 @@ Cybersecurity graduate (BSc Cybersecurity & Digital Science, Pune) focused on **
 **Automation / SOAR**<br/>
 ![Tines](https://img.shields.io/badge/Tines-1F2937?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 **Network / Threat Intel**<br/>
