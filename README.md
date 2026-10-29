@@ -89,7 +89,14 @@ Walkthroughs and write-ups on [Medium](https://medium.com/@BotHacks):
 [Intro to Cyber Threat Intel](https://medium.com/@BotHacks/intro-to-cyber-threat-intel-tryhackme-walkthrough-8e0e768671b4) ·
 [Vulnversity](https://medium.com/@BotHacks/vulnversity-walkthrough-tryhackme-8b664ac117b7) ·
 [Pickle Rick](https://medium.com/@BotHacks/pickle-rick-tryhackmes-rick-morty-room-47b2b3e3d420)
-
+## ✍️ My latest posts
+Walkthroughs and write-ups on [Medium](https://medium.com/@BotHacks):
+<ul>
+  <li><a href="https://medium.com/@BotHacks/pickle-rick-tryhackmes-rick-morty-room-47b2b3e3d420"><b> Pickle Rick — TryHackMe’s Rick & Morty Room</b></a><br/><i>A CTF walkthrough covering web reconnaissance, directory enumeration, clues and credential discovery, command execution, and Linux privilege escalation in a lab.</i></li>
+  <li><a href="https://medium.com/@BotHacks/%EF%B8%8F-recently-i-did-a-phishing-analysis-on-a-suspicious-email-heres-what-i-found-0ed6785ffc8d"><b> Recently, I Did a Phishing Analysis on a Suspicious Email — Here’s What I Found</b></a><br/><i>An investigation of a suspicious email, focusing on sender clues, email details, suspicious links, and practical steps for recognizing potential phishing.</i></li>
+    <li><a href="https://medium.com/@BotHacks/threat-intelligence-tools-tryhackme-walkthrough-8147898eef61"><b> Threat Intelligence Tools — TryHackMe Walkthrough</b></a><br/><i>A practical walkthrough of threat-intelligence resources including URLScan, Abuse.ch platforms, PhishTool, and Cisco Talos for investigating indicators and building context.</i></li>
+  <li><a href="https://medium.com/@BotHacks/unified-kill-chain-46419a3bdb29"><b> Unified Kill Chain — TryHackMe</b></a><br/><i>A walkthrough of the Unified Kill Chain framework and how attack stages can help structure threat understanding, detection opportunities, and response planning.</i></li>
+</ul>
 
 
 ## 🐍 Contribution Snake
