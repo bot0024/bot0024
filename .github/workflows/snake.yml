@@ -22,6 +22,25 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      # Remove the progress bar under the grid and crop the empty space it leaves
+      - name: Remove progress bar
+        run: |
+          python3 - <<'EOF'
+          import re
+          CELL = 16  # snk default cell size
+          for f in ["dist/github-snake.svg", "dist/github-snake-dark.svg"]:
+              s = open(f, encoding="utf-8").read()
+              # progress bar blocks are <rect class="u uX" .../>
+              s = re.sub(r'<rect class="u u[0-9a-z]+"[^>]*/>', "", s)
+              # bar sat 3 cells below the grid, so shorten the canvas by 3 cells
+              m = re.search(r'viewBox="(-?[\d.]+) (-?[\d.]+) ([\d.]+) ([\d.]+)"', s)
+              h = float(m.group(4))
+              new_h = h - 3 * CELL
+              s = s.replace(m.group(0), f'viewBox="{m.group(1)} {m.group(2)} {m.group(3)} {new_h:g}"', 1)
+              s = re.sub(r'(<svg[^>]*?\sheight=")[\d.]+(")', lambda x: f"{x.group(1)}{new_h:g}{x.group(2)}", s, 1)
+              open(f, "w", encoding="utf-8").write(s)
+          EOF
+
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
