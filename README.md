@@ -19,13 +19,15 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚎 (𝙱𝚂𝚌 𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 & 𝙳𝚒𝚐𝚒𝚝𝚊𝚕 𝚂𝚌𝚒𝚎𝚗𝚌𝚎, 𝙿𝚞𝚗𝚎) 𝚏𝚘𝚌𝚞𝚜𝚎𝚍 𝚘𝚗 𝚂𝙾𝙲 𝚘𝚙𝚎𝚛𝚊𝚝𝚒𝚘𝚗𝚜, 𝚂𝙸𝙴𝙼 𝚝𝚛𝚒𝚊𝚐𝚎 𝚊𝚗𝚍 𝚒𝚗𝚌𝚒𝚍𝚎𝚗𝚝 𝚛𝚎𝚜𝚙𝚘𝚗𝚜𝚎. 𝙸 𝚕𝚎𝚊𝚛𝚗 𝚋𝚢 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚙𝚛𝚊𝚌𝚝𝚒𝚌𝚊𝚕 𝚕𝚊𝚋𝚜, 𝚝𝚎𝚜𝚝𝚒𝚗𝚐 𝚍𝚎𝚝𝚎𝚌𝚝𝚒𝚘𝚗 𝚊𝚗𝚍 𝚛𝚎𝚜𝚙𝚘𝚗𝚜𝚎 𝚠𝚘𝚛𝚔𝚏𝚕𝚘𝚠𝚜, 𝚊𝚗𝚍 𝚍𝚘𝚌𝚞𝚖𝚎𝚗𝚝𝚒𝚗𝚐 𝚠𝚑𝚊𝚝 𝙸 𝚏𝚒𝚗𝚍.
+👨‍💻 About Me
 
-- 🏅 𝚃𝚛𝚢𝙷𝚊𝚌𝚔𝙼𝚎 𝚃𝚘𝚙 𝟷% 𝚐𝚕𝚘𝚋𝚊𝚕𝚕𝚢, 𝟸𝟻𝟶+ 𝚛𝚘𝚘𝚖𝚜 𝚊𝚗𝚍 𝙲𝚃𝙵𝚜, 𝚂𝙾𝙲 𝙻𝚎𝚟𝚎𝚕 𝟷 𝚌𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍
-- 🏗️ 𝙱𝚞𝚒𝚕𝚝 𝚊 𝙷𝚒𝚐𝚑-𝙰𝚟𝚊𝚒𝚕𝚊𝚋𝚒𝚕𝚒𝚝𝚢 𝚂𝙾𝙲 𝚕𝚊𝚋 (𝙾𝙿𝙽𝚜𝚎𝚗𝚜𝚎 𝙲𝙰𝚁𝙿/𝚙𝚏𝚜𝚢𝚗𝚌, 𝚆𝚊𝚣𝚞𝚑, 𝚃𝚑𝚎𝙷𝚒𝚟𝚎, 𝙲𝚘𝚛𝚝𝚎𝚡, 𝙼𝙸𝚂𝙿)
-- 🍯 𝙲𝚊𝚙𝚝𝚞𝚛𝚎𝚍 𝚊𝚗𝚍 𝚊𝚗𝚊𝚕𝚢𝚜𝚎𝚍 𝟸𝟼𝟼,𝟶𝟶𝟶+ 𝚊𝚝𝚝𝚊𝚌𝚔 𝚎𝚟𝚎𝚗𝚝𝚜 𝚠𝚒𝚝𝚑 𝚊 𝚃-𝙿𝚘𝚝 𝚑𝚘𝚗𝚎𝚢𝚙𝚘𝚝 𝚘𝚗 𝙰𝚣𝚞𝚛𝚎
-- 🤖 𝙳𝚎𝚜𝚒𝚐𝚗𝚎𝚍 𝚊 𝚂𝙾𝙰𝚁 𝚌𝚘𝚗𝚝𝚊𝚒𝚗𝚖𝚎𝚗𝚝 𝚠𝚘𝚛𝚔𝚏𝚕𝚘𝚠 𝚠𝚒𝚝𝚑 𝚂𝚙𝚕𝚞𝚗𝚔, 𝚃𝚒𝚗𝚎𝚜, 𝚆𝚊𝚣𝚞𝚑 𝚊𝚗𝚍 𝙹𝚒𝚛𝚊
-- 📍 𝙿𝚞𝚗𝚎, 𝙸𝚗𝚍𝚒𝚊 
+Cybersecurity graduate (BSc Cybersecurity & Digital Science, Pune) focused on SOC operations, SIEM triage and incident response. I learn by building practical labs, testing detection and response workflows, and documenting what I find.
+
+- 🏅 TryHackMe Top 1% globally, 250+ rooms and CTFs, SOC Level 1 completed
+- 🏗️ Built a High-Availability SOC lab (OPNsense CARP/pfsync, Wazuh, TheHive, Cortex, MISP)
+- 🍯 Captured and analysed 266,000+ attack events with a T-Pot honeypot on Azure
+- 🤖 Designed a SOAR containment workflow with Splunk, Tines, Wazuh and Jira
+- 📍 Pune, India · 💼 Open to entry-level SOC / cybersecurity roles 
 
 
 ## 🚀 Featured Projects
@@ -111,3 +113,32 @@ Walkthroughs and write-ups on [Medium](https://medium.com/@BotHacks):
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="footer"/>
+
+Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
+
+<div>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+</div>
