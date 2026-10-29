@@ -82,13 +82,6 @@ Cybersecurity graduate (BSc Cybersecurity & Digital Science, Pune) focused on **
 
 
 
-## 🏆 Certifications
-
-![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity_Certificate-4285F4?style=flat-square&logo=google&logoColor=white)
-![TryHackMe SOC L1](https://img.shields.io/badge/TryHackMe-SOC_Level_1-212C42?style=flat-square&logo=tryhackme&logoColor=white)
-
-
-
 ## ✍️ Field Notes
 
 Walkthroughs and write-ups on [Medium](https://medium.com/@BotHacks):
