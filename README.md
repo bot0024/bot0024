@@ -115,18 +115,6 @@ Walkthroughs and write-ups on [Medium](https://medium.com/@BotHacks):
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bot0024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bot0024&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=bot0024&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
 
 ## 🐍 Contribution Snake
 
