@@ -15,7 +15,7 @@
 
 </div>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -27,7 +27,6 @@ Cybersecurity graduate (BSc Cybersecurity & Digital Science, Pune) focused on **
 - 🤖 Designed a **SOAR containment workflow** with Splunk, Tines, Wazuh and Jira
 - 📍 Pune, India · 💼 **Open to entry-level SOC / cybersecurity roles**
 
----
 
 ## 🚀 Featured Projects
 
@@ -50,7 +49,7 @@ Cybersecurity graduate (BSc Cybersecurity & Digital Science, Pune) focused on **
 
 </details>
 
----
+
 
 ## 🧰 Skills & Tools
 
@@ -81,14 +80,7 @@ Cybersecurity graduate (BSc Cybersecurity & Digital Science, Pune) focused on **
 
 **Also:** alert triage · incident response · threat hunting · log analysis · phishing and IOC analysis · vulnerability assessment · file integrity monitoring · OSINT (Shodan, VirusTotal)
 
----
 
-## 🏆 Certifications
-
-![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity_Certificate-4285F4?style=flat-square&logo=google&logoColor=white)
-![TryHackMe SOC L1](https://img.shields.io/badge/TryHackMe-SOC_Level_1-212C42?style=flat-square&logo=tryhackme&logoColor=white)
-
----
 
 ## ✍️ Field Notes
 
@@ -98,7 +90,7 @@ Walkthroughs and write-ups on [Medium](https://medium.com/@BotHacks):
 [Vulnversity](https://medium.com/@BotHacks/vulnversity-walkthrough-tryhackme-8b664ac117b7) ·
 [Pickle Rick](https://medium.com/@BotHacks/pickle-rick-tryhackmes-rick-morty-room-47b2b3e3d420)
 
----
+
 
 ## 🐍 Contribution Snake
 
