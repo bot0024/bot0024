@@ -27,9 +27,22 @@ Cybersecurity graduate (BSc Cybersecurity & Digital Science, Pune) focused on SO
 - 🏗️ Built a High-Availability SOC lab (OPNsense CARP/pfsync, Wazuh, TheHive, Cortex, MISP)
 - 🍯 Captured and analysed 266,000+ attack events with a T-Pot honeypot on Azure
 - 🤖 Designed a SOAR containment workflow with Splunk, Tines, Wazuh and Jira
-- 📍 Pune, India · 💼 Open to entry-level SOC / cybersecurity roles 
+- 📍 Pune, India · 💼 Open to entry-level SOC / cybersecurity roles
 
-
+```bash
+dip@lab:~$ whoami
+Dip Nalawade. Cybersecurity graduate from Pune, India.
+ 
+dip@lab:~$ cat about.txt
+Learns security by building labs, testing detections,
+and documenting what works (and what breaks).
+ 
+dip@lab:~$ ./achievements.sh
+[+] TryHackMe ........ Top 1% globally | 250+ rooms & CTFs | SOC L1
+[+] High-Availability SOC lab ....... OPNsense CARP/pfsync, Wazuh, TheHive, Cortex, MISP
+[+] Cloud honeypot ... 266,000+ attacks analysed on Azure (T-Pot) 
+[+] SOAR lab ......... Splunk -> Tines -> Wazuh -> Jira containment flow
+```
 ## 🚀 Featured Projects
 
 | | Project | Highlights | Stack |
