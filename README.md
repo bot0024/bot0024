@@ -1,9 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Dip%20Nalawade&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" alt="header"/>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Dip+Nalawade;Cybersecurity+graduate+%7C+SOC+%26+Incident+Response;TryHackMe+Top+1%25+%7C+250%2B+rooms+%26+CTFs;Building+SOC+labs+%26+SOAR+automation;Open+to+entry-level+SOC+Analyst+roles" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Welcome+to+my+corner+of+GitHub+%F0%9F%91%8B;Take+a+look+around;Check+out+my+labs+and+projects;Say+hi+on+LinkedIn;Thanks+for+stopping+by%21" alt="Typing SVG" />
 <br/>
 
 <a href="https://www.linkedin.com/in/dip-nalawade/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
