@@ -82,13 +82,6 @@ Cybersecurity graduate (BSc Cybersecurity & Digital Science, Pune) focused on **
 
 
 
-## ✍️ Field Notes
-
-Walkthroughs and write-ups on [Medium](https://medium.com/@BotHacks):
-[Threat Intelligence Tools](https://medium.com/@BotHacks/threat-intelligence-tools-tryhackme-walkthrough-8147898eef61) ·
-[Intro to Cyber Threat Intel](https://medium.com/@BotHacks/intro-to-cyber-threat-intel-tryhackme-walkthrough-8e0e768671b4) ·
-[Vulnversity](https://medium.com/@BotHacks/vulnversity-walkthrough-tryhackme-8b664ac117b7) ·
-[Pickle Rick](https://medium.com/@BotHacks/pickle-rick-tryhackmes-rick-morty-room-47b2b3e3d420)
 ## ✍️ My latest posts
 Walkthroughs and write-ups on [Medium](https://medium.com/@BotHacks):
 <ul>
