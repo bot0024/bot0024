@@ -25,6 +25,7 @@ Cybersecurity graduate (BSc Cybersecurity & Digital Science, Pune) focused on **
 - 🏗️ Built a **High-Availability SOC lab** (OPNsense CARP/pfsync, Wazuh, TheHive, Cortex, MISP)
 - 🍯 Captured and analysed **266,000+ attack events** with a T-Pot honeypot on Azure
 - 🤖 Designed a **SOAR containment workflow** with Splunk, Tines, Wazuh and Jira
+- 🎓 Currently studying for **CompTIA CySA+ (CS0-004)**
 - 📍 Pune, India · 💼 **Open to entry-level SOC / cybersecurity roles**
 
 ---
@@ -65,6 +66,7 @@ Cybersecurity graduate (BSc Cybersecurity & Digital Science, Pune) focused on **
 **Automation / SOAR**<br/>
 ![Tines](https://img.shields.io/badge/Tines-1F2937?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 **Network / Threat Intel**<br/>
@@ -99,7 +101,7 @@ Cybersecurity graduate (BSc Cybersecurity & Digital Science, Pune) focused on **
 
 ![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity_Certificate-4285F4?style=flat-square&logo=google&logoColor=white)
 ![TryHackMe SOC L1](https://img.shields.io/badge/TryHackMe-SOC_Level_1-212C42?style=flat-square&logo=tryhackme&logoColor=white)
-![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B_(In_Progress-Udemy)-C8202F?style=flat-square&logo=comptia&logoColor=white)
+![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B_(In_Progress)-C8202F?style=flat-square&logo=comptia&logoColor=white)
 
 ---
 
@@ -113,6 +115,18 @@ Walkthroughs and write-ups on [Medium](https://medium.com/@BotHacks):
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bot0024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bot0024&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=bot0024&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
 
 ## 🐍 Contribution Snake
 
