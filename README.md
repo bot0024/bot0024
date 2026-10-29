@@ -56,18 +56,13 @@ Cybersecurity graduate (BSc Cybersecurity & Digital Science, Pune) focused on **
 
 <div align="center">
 
-**SOC / SIEM**<br/>
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Elastic](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Sysmon](https://img.shields.io/badge/Sysmon_%26_Event_Logs-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
-**Automation / SOAR**<br/>
 ![Tines](https://img.shields.io/badge/Tines-1F2937?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-**Network / Threat Intel**<br/>
 ![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge)
 ![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
@@ -76,8 +71,6 @@ Cybersecurity graduate (BSc Cybersecurity & Digital Science, Pune) focused on **
 ![MISP](https://img.shields.io/badge/MISP%20%26%20Cortex-1F4E79?style=for-the-badge)
 ![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-C8102E?style=for-the-badge)
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
-
-**Systems / Cloud**<br/>
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
