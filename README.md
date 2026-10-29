@@ -83,11 +83,6 @@ Cybersecurity graduate (BSc Cybersecurity & Digital Science, Pune) focused on **
 
 ---
 
-## 💼 Experience & Education
-
-- **Cybersecurity Intern, Elevate Labs** (Remote, May to Jun 2025). Ran Nmap risk assessments, configured Windows Firewall rules, and extracted IOCs from phishing samples to produce threat intelligence reports.
-- **BSc Cybersecurity & Digital Science** (2023 to 2026), Suryadatta International Institute of Cyber Security, Pune.
-
 ## 🏆 Certifications
 
 ![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity_Certificate-4285F4?style=flat-square&logo=google&logoColor=white)
